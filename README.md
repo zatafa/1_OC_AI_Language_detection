@@ -9,4 +9,5 @@ Use Text Analytics, an Azure Cognitive Solution which helps to detect the langua
 [Wikipedia Language Identification database-2018](https://zenodo.org/record/841984#.YVXUEZpByUk)
 
 # References
+- [Create an Azure Account](https://docs.microsoft.com/fr-fr/learn/modules/create-an-azure-account/)
 - [Azure Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/#overview)
